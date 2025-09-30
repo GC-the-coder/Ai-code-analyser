@@ -1,0 +1,5 @@
+{
+  "name": " coder world",
+  "description": "A powerful tool that leverages the Gemini API to provide clear, in-depth explanations for any code snippet. Select your language, paste your code, and get a comprehensive breakdown of its functionality, structure, and potential improvements.",
+  "requestFramePermissions": []
+}
